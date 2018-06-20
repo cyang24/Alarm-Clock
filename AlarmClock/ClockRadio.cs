@@ -2,9 +2,10 @@
 namespace AlarmClock
 {
     public class ClockRadio
-    {   
-        //variables
+    {
+        //method variables
 
+        string clockName;
         string time;
         string radioStation;
         string alarmTime;
@@ -15,13 +16,20 @@ namespace AlarmClock
 
         public ClockRadio()
         {
+            clockName = "Default";
             time = "12:00 AM";
             radioStation = "COUNTRY";
             alarmOn = false;
         }
 
 
-        //functions set values
+        //method functions
+
+        public void SetName(string clockName)
+        {
+            this.clockName = clockName;
+            Console.WriteLine(clockName + " Clock's");
+        }
 
         public void SetTime(string time)
         {
@@ -37,13 +45,20 @@ namespace AlarmClock
         {
             this.alarmTime = alarmTime;
             alarmOn = true;
+            Console.WriteLine("Alarm is OFF");
+
         }
 
-        //functions display value
+        public void SetAlarmOff()
+        {
+            this.alarmOn = false;
+
+        }
+
 
         public void DisplayTime()
         {
-            Console.WriteLine("the current time is " + time);
+            Console.WriteLine("current time is " + time);
         }
 
         public void DisplayRadioStation()
@@ -53,7 +68,7 @@ namespace AlarmClock
 
         public void DisplayAlarmTime()
         {
-            Console.WriteLine("the alarm is set at " + alarmTime + " the alarm is on " + alarmOn);
+            Console.WriteLine("alarm is set at " + alarmTime);
 
         }
     }
