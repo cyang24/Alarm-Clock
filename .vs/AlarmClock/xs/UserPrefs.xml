@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{02E776D2-D62B-4F57-ACE2-6867EE8084D3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AlarmClock/ClockRadio.cs">
+    <Files>
+      <File FileName="AlarmClock/Program.cs" Line="13" Column="39" />
+      <File FileName="AlarmClock/ClockRadio.cs" Line="57" Column="70" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AlarmClock PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

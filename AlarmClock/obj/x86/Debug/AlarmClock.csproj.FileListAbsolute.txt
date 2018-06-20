@@ -1,0 +1,6 @@
+/Users/chouyouyang/Desktop/DevCodeCamp/Projects/AlarmClock/AlarmClock/bin/Debug/AlarmClock.exe
+/Users/chouyouyang/Desktop/DevCodeCamp/Projects/AlarmClock/AlarmClock/bin/Debug/AlarmClock.pdb
+/Users/chouyouyang/Desktop/DevCodeCamp/Projects/AlarmClock/AlarmClock/obj/x86/Debug/AlarmClock.csprojResolveAssemblyReference.cache
+/Users/chouyouyang/Desktop/DevCodeCamp/Projects/AlarmClock/AlarmClock/obj/x86/Debug/AlarmClock.csproj.CoreCompileInputs.cache
+/Users/chouyouyang/Desktop/DevCodeCamp/Projects/AlarmClock/AlarmClock/obj/x86/Debug/AlarmClock.exe
+/Users/chouyouyang/Desktop/DevCodeCamp/Projects/AlarmClock/AlarmClock/obj/x86/Debug/AlarmClock.pdb
